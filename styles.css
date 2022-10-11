@@ -311,8 +311,8 @@ div {
 	animation-delay: 800ms;
 	/* font-size: 1.4rem; */
 	
-	font-size: calc(0.8rem + 0.8vw);
-	color: #404040;
+	font-size: 2rem;
+	color: #757474;
 	/* color: #8b8d55; */
 	/* color: #6d5b5b; */
 }
@@ -321,7 +321,7 @@ div {
 	animation-delay: 900ms;
 	/* font-size: 1.8rem; */
 	
-	font-size: calc(1rem + 1vw);
+	font-size: 2.3rem;
 	font-weight: 700;
 	color: #757474;
 	/* color: #8a8b6f; */
@@ -331,7 +331,7 @@ div {
 .intro-name{
 	animation-delay: 1000ms;
 	/* font-size: 4rem; */
-	font-size: calc(1.7rem + 3.5vw);
+	font-size: 7rem;
 	
 	color: black;
 	/* color: #3f3c4c; */
@@ -344,7 +344,7 @@ div {
 	/* font-size: 3rem; */
 	line-height: 5rem;
 	/* margin-top: -1rem; */
-	font-size: calc(3rem + 2.0vw);
+	font-size: 5rem;
 	/* color: #eead74; */
 	color: #d16d16;
 }
@@ -354,7 +354,7 @@ div {
 	margin: 10px 0 0 0;
 	/* font-size: 1.4rem; */
 	margin-top: calc(0.9rem + 0.8vw);
-	font-size: calc(1.0rem + 0.8vw);
+	font-size: 2rem;
 	/* color: #8a8b6f; */
 	/* color: #636443; */
 	color: #7f7f7f;
